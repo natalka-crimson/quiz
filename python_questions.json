@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What symbol is used for comments in Python?",
+        "answers": ["//", "#", "/*", "%%"],
+        "correct_answer": "#"
+    },
+    {
+        "question": "Which of the following is NOT a valid variable name in Python?",
+        "answers": ["my_variable", "2nd_variable", "variable_2", "_variable"],
+        "correct_answer": "2nd_variable"
+    },
+    {
+        "question": "What will the following code output?\n\nprint(2 + 2 * 3 / 2)",
+        "answers": ["3", "5", "7", "8"],
+        "correct_answer": "5"
+    },
+    {
+        "question": "Which of the following data types is mutable in Python?",
+        "answers": ["int", "float", "tuple", "list"],
+        "correct_answer": "list"
+    },
+    {
+        "question": "What is the output of the following code snippet?\n\nprint('Hello' * 3)",
+        "answers": ["HelloHelloHello", "Hello 3 times", "HelloHello", "3"],
+        "correct_answer": "HelloHelloHello"
+    },
+    {
+        "question": "How do you create a function in Python?",
+        "answers": ["def", "function", "define", "fun"],
+        "correct_answer": "def"
+    },
+    {
+        "question": "What is the result of the expression 2 ** 3?",
+        "answers": ["4", "6", "8", "16"],
+        "correct_answer": "8"
+    },
+    {
+        "question": "Which keyword is used to define a class in Python?",
+        "answers": ["class", "define", "def", "cls"],
+        "correct_answer": "class"
+    },
+    {
+        "question": "What is the output of the following code snippet?\n\nx = [1, 2, 3]\nprint(x[1])",
+        "answers": ["1", "2", "3", "IndexError"],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Which of the following is a correct way to open a file in Python for reading?",
+        "answers": ["open('file.txt', 'r')", "open('file.txt', 'w')", "open('file.txt', 'a')", "open('file.txt', 'x')"],
+        "correct_answer": "open('file.txt', 'r')"
+    },
+    {
+        "question": "What does the len() function do in Python?",
+        "answers": ["Returns the length of a string", "Returns the length of a list", "Returns the length of a tuple", "All of the above"],
+        "correct_answer": "All of the above"
+    },
+    {
+        "question": "Which of the following is NOT a valid comparison operator in Python?",
+        "answers": ["==", "!=", "<>", "<="],
+        "correct_answer": "<>"
+    },
+    {
+        "question": "What is the output of the following code snippet?\n\nprint('Python'[2:])",
+        "answers": ["Py", "Pyt", "thon", "tho"],
+        "correct_answer": "thon"
+    },
+    {
+        "question": "Which of the following is used to perform a loop iteration a specific number of times in Python?",
+        "answers": ["for loop", "while loop", "do-while loop", "if statement"],
+        "correct_answer": "for loop"
+    },
+    {
+        "question": "What is the correct way to check if a key exists in a dictionary in Python?",
+        "answers": ["key in dictionary", "key.exists(dictionary)", "dictionary.has_key(key)", "None of the above"],
+        "correct_answer": "key in dictionary"
+    },
+    {
+        "question": "What does the range() function return?",
+        "answers": ["A list of numbers", "A tuple of numbers", "A generator object", "A dictionary of numbers"],
+        "correct_answer": "A generator object"
+    },
+    {
+        "question": "Which of the following is used to exit from a loop prematurely in Python?",
+        "answers": ["break", "continue", "exit", "return"],
+        "correct_answer": "break"
+    },
+    {
+        "question": "What is the output of the following code snippet?\n\nx = (1, 2, 3)\nprint(x[-1])",
+        "answers": ["-1", "2", "3", "IndexError"],
+        "correct_answer": "3"
+    },
+    {
+        "question": "What is the correct way to remove an item from a list in Python?",
+        "answers": ["list.remove(item)", "list.delete(item)", "del list[item]", "All of the above"],
+        "correct_answer": "list.remove(item)"
+    },
+    {
+        "question": "Which of the following is NOT a valid method to open a file in Python?",
+        "answers": ["open()", "with open()", "file()", "None of the above"],
+        "correct_answer": "file()"
+    }
+]

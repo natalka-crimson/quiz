@@ -1,0 +1,302 @@
+[
+    {
+        "question": "What is the plural form of 'child'?",
+        "answers": ["Childs", "Childes", "Children", "Childies"],
+        "correct_answer": "Children"
+    },
+    {
+        "question": "Which word is a synonym for 'happy'?",
+        "answers": ["Joyful", "Sad", "Angry", "Tired"],
+        "correct_answer": "Joyful"
+    },
+    {
+        "question": "What is the past tense of 'eat'?",
+        "answers": ["Eaten", "Ate", "Eated", "Eatened"],
+        "correct_answer": "Ate"
+    },
+    {
+        "question": "What is the opposite of 'big'?",
+        "answers": ["Large", "Huge", "Giant", "Small"],
+        "correct_answer": "Small"
+    },
+    {
+        "question": "Which word means 'the study of stars and planets'?",
+        "answers": ["Biology", "Chemistry", "Geography", "Astronomy"],
+        "correct_answer": "Astronomy"
+    },
+    {
+        "question": "Which of these is a mammal?",
+        "answers": ["Crocodile", "Turtle", "Dog", "Lizard"],
+        "correct_answer": "Dog"
+    },
+    {
+        "question": "What is the opposite of 'begin'?",
+        "answers": ["End", "Start", "Commence", "Launch"],
+        "correct_answer": "End"
+    },
+    {
+        "question": "Which word means 'to give up'?",
+        "answers": ["Surrender", "Fight", "Win", "Conquer"],
+        "correct_answer": "Surrender"
+    },
+    {
+        "question": "What is the comparative form of 'good'?",
+        "answers": ["Best", "Gooder", "Better", "Great"],
+        "correct_answer": "Better"
+    },
+    {
+        "question": "What is the present participle of 'run'?",
+        "answers": ["Ran", "Runed", "Runnen", "Running"],
+        "correct_answer": "Running"
+    },
+    {
+        "question": "Which of these is a fruit?",
+        "answers": ["Carrot", "Apple", "Potato", "Lettuce"],
+        "correct_answer": "Apple"
+    },
+    {
+        "question": "What is the plural form of 'tomato'?",
+        "answers": ["Tomatoes", "Tomatoe", "Tomatoen", "Tomatoies"],
+        "correct_answer": "Tomatoes"
+    },
+    {
+        "question": "What does 'DNA' stand for?",
+        "answers": ["Deoxyribonucleic Acid", "Deoxyribonuclear Acid", "Deoxyribosenuclear Acid", "Deoxyribosenucleic Acid"],
+        "correct_answer": "Deoxyribonucleic Acid"
+    },
+    {
+        "question": "Which of these is a continent?",
+        "answers": ["Mexico", "India", "Brazil", "Europe"],
+        "correct_answer": "Europe"
+    },
+    {
+        "question": "What is the opposite of 'fast'?",
+        "answers": ["Quick", "Speedy", "Slow", "Rapid"],
+        "correct_answer": "Slow"
+    },
+    {
+        "question": "What is the comparative form of 'beautiful'?",
+        "answers": ["More beautiful", "Beautifuller", "Beautifullier", "Beautifuler"],
+        "correct_answer": "More beautiful"
+    },
+    {
+        "question": "Which word means 'to express gratitude'?",
+        "answers": ["Blame", "Complain", "Thank", "Criticize"],
+        "correct_answer": "Thank"
+    },
+    {
+        "question": "What is the past tense of 'go'?",
+        "answers": ["Went", "Goed", "Gone", "Going"],
+        "correct_answer": "Went"
+    },
+    {
+        "question": "Which of these is a vegetable?",
+        "answers": ["Apple", "Banana", "Orange", "Carrot"],
+        "correct_answer": "Carrot"
+    },
+    {
+        "question": "What is the comparative form of 'fast'?",
+        "answers": ["Faster", "Fastest", "Fasterer", "Fastlier"],
+        "correct_answer": "Faster"
+    },
+    {
+        "question": "What is the opposite of 'hot'?",
+        "answers": ["Cold", "Warm", "Burning", "Sizzling"],
+        "correct_answer": "Cold"
+    },
+    {
+        "question": "Which word means 'to make something new'?",
+        "answers": ["Destroy", "Revive", "Innovate", "Maintain"],
+        "correct_answer": "Innovate"
+    },
+    {
+        "question": "What is the comparative form of 'high'?",
+        "answers": ["Higher", "High", "Higer", "Highly"],
+        "correct_answer": "Higher"
+    },
+    {
+        "question": "What is the past participle of 'drink'?",
+        "answers": ["Drank", "Drunk", "Drunked", "Drinking"],
+        "correct_answer": "Drunk"
+    },
+    {
+        "question": "Which word means 'a person who studies the past'?",
+        "answers": ["Physicist", "Historian", "Biologist", "Geologist"],
+        "correct_answer": "Historian"
+    },
+    {
+        "question": "What is the plural form of 'mouse' (the animal)?",
+        "answers": ["Mice", "Mouses", "Mouseies", "Meese"],
+        "correct_answer": "Mice"
+    },
+    {
+        "question": "What does 'NASA' stand for?",
+        "answers": ["North American Space Association", "National Aerospace and Space Association", "National Aeronautics and Space Administration", "New Aeronautics and Space Agency"],
+        "correct_answer": "National Aeronautics and Space Administration"
+    },
+    {
+        "question": "What is the term for a word that is spelled the same but has different meanings?",
+        "answers": ["Synonym", "Homograph", "Homophone", "Antonym"],
+        "correct_answer": "Homograph"
+    },
+    {
+        "question": "I have been working from home ____ the pandemic started.",
+        "answers": ["during", "for", "since", "as"],
+        "correct_answer": "since"
+    },
+    {
+        "question": "She has been living in New York ____ three years.",
+        "answers": ["during", "for", "since", "as"],
+        "correct_answer": "for"
+    },
+    {
+        "question": "In the sentence 'The book lay on the table,' what part of speech is 'lay'?",
+        "answers": ["Noun", "Verb", "Adjective", "Adverb"],
+        "correct_answer": "Verb"
+    },
+    {
+        "question": "What is the study of the origin of words called?",
+        "answers": ["Philology", "Etymology", "Linguistics", "Morphology"],
+        "correct_answer": "Etymology"
+    },
+    {
+        "question": "He has been working out ____ two hours.",
+        "answers": ["during", "for", "since", "as"],
+        "correct_answer": "for"
+    },
+    {
+        "question": "They have known each other ____ high school.",
+        "answers": ["during", "for", "since", "as"],
+        "correct_answer": "since"
+    },
+    {
+        "question": "She has been studying ____ morning.",
+        "answers": ["during", "for", "since", "as"],
+        "correct_answer": "since"
+    },
+    {
+        "question": "He has been practicing piano ____ he was a child.",
+        "answers": ["during", "for", "since", "as"],
+        "correct_answer": "since"
+    },
+    {
+        "question": "We have been friends ____ a long time.",
+        "answers": ["during", "for", "since", "as"],
+        "correct_answer": "for"
+    },
+    {
+        "question": "In the sentence 'She is a person of great fortitude,' what part of speech is 'fortitude'?",
+        "answers": ["Adverb", "Noun", "Verb", "Adjective"],
+        "correct_answer": "Noun"
+    },
+    {
+        "question": "What is the term for a word that has the opposite meaning of another word?",
+        "answers": ["Synonym", "Antonym", "Homonym", "Homograph"],
+        "correct_answer": "Antonym"
+    },
+    {
+        "question": "In the sentence 'He ran quickly to catch the train,' what part of speech is 'quickly'?",
+        "answers": ["Adjective", "Adverb", "Verb", "Noun"],
+        "correct_answer": "Adverb"
+    },
+    {
+        "question": "I have been waiting for you ____ an hour.",
+        "answers": ["during", "for", "since", "as"],
+        "correct_answer": "for"
+    },
+    {
+        "question": "In the phrase 'The cat's pajamas,' what figure of speech is used to describe the pajamas?",
+        "answers": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+        "correct_answer": "Metaphor"
+    },
+    {
+        "question": "She has been learning French ____ two years.",
+        "answers": ["during", "for", "since", "as"],
+        "correct_answer": "for"
+    },
+    {
+        "question": "In the sentence 'She is a person of extraordinary intelligence,' what part of speech is 'extraordinary'?",
+        "answers": ["Adjective", "Noun", "Verb", "Adverb"],
+        "correct_answer": "Adjective"
+    },
+    {
+        "question": "What is the term for a word that has the same meaning as another word?",
+        "answers": ["Antonym", "Synonym", "Homonym", "Homograph"],
+        "correct_answer": "Synonym"
+    },
+    {
+        "question": "In the sentence 'The sun set slowly,' what part of speech is 'slowly'?",
+        "answers": ["Adverb", "Noun", "Verb", "Adjective"],
+        "correct_answer": "Adverb"
+    },
+    {
+        "question": "I ____ to the store yesterday to buy some groceries.",
+        "answers": ["went", "goes", "am going", "have gone"],
+        "correct_answer": "went"
+    },
+    {
+        "question": "She ____ her keys on the table.",
+        "answers": ["leave", "leaves", "is leaving", "left"],
+        "correct_answer": "left"
+    },
+    {
+        "question": "We ____ a great time at the party last night.",
+        "answers": ["had", "has", "were having", "have"],
+        "correct_answer": "had"
+    },
+    {
+        "question": "They ____ their homework before going to bed.",
+        "answers": ["were finishing", "finished", "finishes", "finish"],
+        "correct_answer": "finished"
+    },
+    {
+        "question": "He ____ to the gym every morning to work out.",
+        "answers": ["go", "goes", "is going", "went"],
+        "correct_answer": "goes"
+    },
+    {
+        "question": "I ____ a movie when you called me.",
+        "answers": ["watch", "watched", "watches", "was watching"],
+        "correct_answer": "was watching"
+    },
+    {
+        "question": "She ____ a lot of books in her free time.",
+        "answers": ["reads", "read", "is reading", "readed"],
+        "correct_answer": "reads"
+    },
+    {
+        "question": "We ____ for the bus when it started raining.",
+        "answers": ["were waiting", "waited", "have waited", "have been waiting"],
+        "correct_answer": "were waiting"
+    },
+    {
+        "question": "He ____ his keys in the car yesterday.",
+        "answers": ["leaves", "was leaving", "left", "leave"],
+        "correct_answer": "left"
+    },
+    {
+        "question": "They ____ dinner when I arrived.",
+        "answers": ["were cooking", "cooked", "have cooked", "have been cooking"],
+        "correct_answer": "were cooking"
+    },
+    {
+        "question": "I ____ English for five years now.",
+        "answers": ["am learning", "learned", "was learning", "have been learning"],
+        "correct_answer": "have been learning"
+    },
+    {
+        "question": "She ____ her phone in her bag.",
+        "answers": ["find", "finds", "was finding", "found"],
+        "correct_answer": "found"
+    },
+    {
+        "question": "We ____ to the beach last summer.",
+        "answers": ["went", "were going", "have been going", "go"],
+        "correct_answer": "went"
+    },
+    {
+        "question": "He ____ a book when I saw him.",
+        "answers": ["was reading", "had read", "reads", "readed"],
+        "correct_answer": "was reading"
+    }
+]
